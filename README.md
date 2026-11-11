@@ -1,1 +1,1 @@
-Olá, esse é o meu primrose repositório para ugardar meus futuros projetos.
+Olá, esse é o meu primeiro repositório para guardar meus futuros projetos.
